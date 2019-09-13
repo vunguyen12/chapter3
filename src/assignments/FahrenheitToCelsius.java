@@ -31,7 +31,7 @@ public class FahrenheitToCelsius {
         System.out.println("the temp at 5 am is " + F3 + " fahrenheit\n");
 
 
-            if (50>F){
+            if (5<F){
                 System.out.println(" the temperture is below 50F, it's freesing outside");
 
         }
